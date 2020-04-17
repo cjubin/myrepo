@@ -1,3 +1,3 @@
 data("airquality")
-plot(airquality)
+plot(airquality,col='blue')
 
