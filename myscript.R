@@ -1,0 +1,2 @@
+data("airquality")
+plot(airquality)
